@@ -1,0 +1,14 @@
+C:\Users\willa\Estudos\curso-csharp-alura\bin\Debug\net8.0\curso-csharp-alura.exe
+C:\Users\willa\Estudos\curso-csharp-alura\bin\Debug\net8.0\curso-csharp-alura.deps.json
+C:\Users\willa\Estudos\curso-csharp-alura\bin\Debug\net8.0\curso-csharp-alura.runtimeconfig.json
+C:\Users\willa\Estudos\curso-csharp-alura\bin\Debug\net8.0\curso-csharp-alura.dll
+C:\Users\willa\Estudos\curso-csharp-alura\bin\Debug\net8.0\curso-csharp-alura.pdb
+C:\Users\willa\Estudos\curso-csharp-alura\obj\Debug\net8.0\curso-csharp-alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willa\Estudos\curso-csharp-alura\obj\Debug\net8.0\curso-csharp-alura.AssemblyInfoInputs.cache
+C:\Users\willa\Estudos\curso-csharp-alura\obj\Debug\net8.0\curso-csharp-alura.AssemblyInfo.cs
+C:\Users\willa\Estudos\curso-csharp-alura\obj\Debug\net8.0\curso-csharp-alura.csproj.CoreCompileInputs.cache
+C:\Users\willa\Estudos\curso-csharp-alura\obj\Debug\net8.0\curso-csharp-alura.dll
+C:\Users\willa\Estudos\curso-csharp-alura\obj\Debug\net8.0\refint\curso-csharp-alura.dll
+C:\Users\willa\Estudos\curso-csharp-alura\obj\Debug\net8.0\curso-csharp-alura.pdb
+C:\Users\willa\Estudos\curso-csharp-alura\obj\Debug\net8.0\curso-csharp-alura.genruntimeconfig.cache
+C:\Users\willa\Estudos\curso-csharp-alura\obj\Debug\net8.0\ref\curso-csharp-alura.dll
